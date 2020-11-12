@@ -6,7 +6,7 @@ namespace EcapsulamentoAula
     {
         static void Main(string[] args)
         {
-            
+            Produto p = new Produto();
         }
     }
 }
